@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F2C811&center=true&vCenter=true&width=600&lines=Power+BI+Dashboards+%F0%9F%93%8A;Advanced+Excel+%26+MIS+Reporting+%F0%9F%93%97;SQL+%7C+Python+%7C+Data+Cleaning+%F0%9F%A7%B9;Open+to+Work+%E2%80%94+Data+Analyst+%2F+MIS+Executive+%F0%9F%9A%80)](https://github.com/devanshudwivedi619)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F2C811&center=true&vCenter=true&width=650&lines=Power+BI+Dashboards+%F0%9F%93%8A;Advanced+Excel+%26+MIS+Reporting+%F0%9F%93%97;SQL+%7C+PySpark+%7C+Databricks+%E2%9A%A1;AWS+S3+%7C+EC2+%7C+IAM+%7C+Lambda+%E2%98%81%EF%B8%8F;Open+to+Work+%E2%80%94+Data+Analyst+%2F+MIS+Executive+%F0%9F%9A%80)](https://github.com/devanshudwivedi619)
 
 ![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-Data_Analyst_%7C_MIS_Executive-2ea44f?style=for-the-badge)
 
@@ -15,14 +15,15 @@
 
 ## 💫 About Me
 
-B.Tech Computer Science graduate (2024) from Satna, Madhya Pradesh. Mujhe messy business data ko clear dashboards aur reports mein badalna pasand hai, jinse log asaani se decision le sakein.
+Computer Science graduate (B.Tech, 2024) based in Satna, Madhya Pradesh. I turn raw business data into clear dashboards and reports that help teams make faster, better decisions. My core toolkit is Advanced Excel, Power BI and SQL, backed by working knowledge of PySpark, Databricks and AWS.
 
 > [!TIP]
-> 🎯 **Looking for:** Data Analyst / MIS Executive roles. Mujhse email par seedha contact karo: **devanshudwivedi619@gmail.com**
+> 🎯 **Open to:** Data Analyst and MIS Executive roles. Reach me at **devanshudwivedi619@gmail.com**
 
-- 💼 **Experience:** Graduate Engineer Trainee at **GyanBox Digital** (Dec 2025 - Jul 2026): MIS reporting, data validation, Excel-based analysis
-- 📊 **Skills:** Advanced Excel, Power BI (DAX, interactive dashboards), SQL
-- 🌱 **Learning:** Python (Pandas, NumPy) aur AI/ML ki basics
+- 💼 **Experience:** Graduate Engineer Trainee at **GyanBox Digital** (Dec 2025 - Jul 2026), working on MIS reporting, data validation and Excel-based analysis
+- 📊 **Core skills:** Advanced Excel, Power BI (DAX, interactive dashboards), SQL
+- ⚡ **Big data and cloud:** PySpark on Databricks, AWS (S3, EC2, IAM, Lambda)
+- 🌱 **Currently learning:** Python (Pandas, NumPy) and AI/ML fundamentals
 
 ---
 
@@ -38,19 +39,21 @@ B.Tech Computer Science graduate (2024) from Satna, Madhya Pradesh. Mujhe messy 
 
 </div>
 
-- **Superstore Sales & Profit Insights (Power BI):** $8.95M sales ka analysis product categories, customer segments aur geography ke hisaab se
-- **IT Spend & Asset Utilization Dashboard (Power BI):** 300 assets aur 5 departments mein 2,778 unused licenses (31%) pakde
+- **Superstore Sales & Profit Insights (Power BI):** analysed $8.95M in sales across product categories, customer segments and geography
+- **IT Spend & Asset Utilization Dashboard (Power BI):** tracked 300 assets across 5 departments and identified 2,778 unused licenses (31%)
 
 ---
 
-## 🛠️ Skills at a Glance
+## 🛠️ Technical Skills
 
-| Skill | Level | Used for |
+| Area | Tools | Proficiency |
 |---|---|---|
-| ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | ![](https://img.shields.io/badge/Advanced-217346?style=flat-square) | Pivots, slicers, MIS reports, dashboards |
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![](https://img.shields.io/badge/DAX_%26_Dashboards-F2C811?style=flat-square&labelColor=F2C811&color=F2C811) | Interactive dashboards, KPIs |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![](https://img.shields.io/badge/Basic_to_Intermediate-4479A1?style=flat-square) | Querying and analysis |
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![](https://img.shields.io/badge/Learning-FF8C00?style=flat-square) | Pandas, NumPy, Matplotlib |
+| **Data analysis & reporting** | Advanced Excel (Pivot Tables, Slicers, MIS reports) | Advanced |
+| **Business intelligence** | Power BI (DAX, interactive dashboards, KPIs) | Proficient |
+| **Databases** | SQL (MySQL) | Basic to Intermediate |
+| **Big data** | PySpark, Databricks | Working knowledge |
+| **Cloud** | AWS: S3, EC2, IAM, Lambda | Working knowledge |
+| **Programming** | Python (Pandas, NumPy, Matplotlib) | Learning |
 
 ### 🧭 My Journey
 
@@ -59,11 +62,13 @@ B.Tech Computer Science graduate (2024) from Satna, Madhya Pradesh. Mujhe messy 
 flowchart LR
     A["🎓 B.Tech CSE<br/>2024"] --> B["💼 GET at GyanBox<br/>MIS + Excel"]
     B --> C["📊 Power BI &<br/>Excel Projects"]
-    C --> D["🚀 Open to<br/>Data Analyst / MIS"]
+    C --> D["⚡ PySpark, Databricks<br/>& AWS"]
+    D --> E["🚀 Open to<br/>Data Analyst / MIS"]
     style A fill:#0078D4,stroke:#005a9e,color:#fff
     style B fill:#217346,stroke:#155230,color:#fff
     style C fill:#F2C811,stroke:#b89a0d,color:#000
-    style D fill:#E8384D,stroke:#a8212f,color:#fff
+    style D fill:#FF3621,stroke:#b22615,color:#fff
+    style E fill:#8A2BE2,stroke:#5c1b96,color:#fff
 ```
 
 ---
@@ -78,7 +83,7 @@ flowchart LR
 <img src="./chart-4-spend-by-department.svg" width="49%" alt="Spend by department" />
 <img src="./chart-5-revenue-vs-profit.svg" width="49%" alt="Revenue vs profit" />
 
-<sub>License Utilization and Projects by Tool come from my real projects. Charts tagged SAMPLE show the style of dashboards I build, with illustrative numbers.</sub>
+<sub>License Utilization and Projects by Tool use data from my real projects. Charts tagged SAMPLE show the style of dashboards I build, with illustrative numbers.</sub>
 
 </div>
 
@@ -107,7 +112,12 @@ flowchart LR
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
