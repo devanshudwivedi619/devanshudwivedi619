@@ -52,17 +52,6 @@ B.Tech Computer Science graduate (2024) from Satna, Madhya Pradesh. Mujhe messy 
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![](https://img.shields.io/badge/Basic_to_Intermediate-4479A1?style=flat-square) | Querying and analysis |
 | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![](https://img.shields.io/badge/Learning-FF8C00?style=flat-square) | Pandas, NumPy, Matplotlib |
 
-### 📈 My Projects by Tool
-
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"pie1":"#F2C811","pie2":"#217346","pie3":"#3776AB","pieTitleTextSize":"18px","pieSectionTextSize":"16px"}}}%%
-pie showData
-    title GitHub projects by tool
-    "Power BI" : 3
-    "Excel" : 1
-    "Python / Jupyter" : 2
-```
-
 ### 🧭 My Journey
 
 ```mermaid
@@ -76,6 +65,22 @@ flowchart LR
     style C fill:#F2C811,stroke:#b89a0d,color:#000
     style D fill:#E8384D,stroke:#a8212f,color:#fff
 ```
+
+---
+
+## 📊 Dashboard Snapshots
+
+<div align="center">
+
+<img src="./chart-1-sales-trend.svg" width="49%" alt="Sales trend" />
+<img src="./chart-2-license-utilization.svg" width="49%" alt="License utilization" />
+<img src="./chart-3-projects-by-tool.svg" width="49%" alt="Projects by tool" />
+<img src="./chart-4-spend-by-department.svg" width="49%" alt="Spend by department" />
+<img src="./chart-5-revenue-vs-profit.svg" width="49%" alt="Revenue vs profit" />
+
+<sub>License Utilization and Projects by Tool come from my real projects. Charts tagged SAMPLE show the style of dashboards I build, with illustrative numbers.</sub>
+
+</div>
 
 ---
 
